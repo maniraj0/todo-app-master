@@ -1,2 +1,2 @@
 # todo-app-master
-to create a advanced todo list
+one can create a advanced todo list
